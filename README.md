@@ -30,3 +30,5 @@ Swagger URL:
 
 https://spartacus-demo.eastus.cloudapp.azure.com:8443/occ/v2/swagger-ui.html#/
 
+Slackblitz URL:
+https://stackblitz.com/github/raghureddy5431/spartacus2011v2/tree/master
